@@ -59,4 +59,36 @@ class ShyEmpInfo{
 		ob6.showEmp();
 	}
 }
-	
+
+/*
+Name: John Dept: Sales CEO: M.Kippers Company years: 5
+Name: Joseph Dept: Admin CEO: H.Rippers Company years: 7
+Name: James Dept: R&D CEO: S.Tippers Company years: 6
+Enter Name: 
+rosalin
+Enter Dept: 
+iedc ece
+Enter CEO:  
+sb
+Enter Company years:  
+2
+Enter Name: 
+priti
+Enter Dept: 
+iedc bsh
+Enter CEO:  
+pkd
+Enter Company years:  
+8
+Enter Name: 
+arghya
+Enter Dept: 
+iedc bsh
+Enter CEO:  
+pkd
+Enter Company years:  
+5
+Name: rosalin Dept: iedc ece CEO: sb Company years: 2
+Name: priti Dept: iedc bsh CEO: pkd Company years: 8
+Name: arghya Dept: iedc bsh CEO: pkd Company years: 5
+*/
